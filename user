@@ -1,0 +1,9 @@
+main
+develop
+feature/login-page
+feature/user-management
+feature/github-integration
+bugfix/execution-id-not-showing
+bugfix/branch-sync-issue
+release/v1.2.0
+hotfix/login-error
